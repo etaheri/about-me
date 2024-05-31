@@ -1,5 +1,5 @@
 # Erik Taheri
-Engineering Lead at [Torch](https://torch.io)
+Engineering Lead at Stealth Startup
 
 ---
 
